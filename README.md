@@ -72,3 +72,4 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\源码\编译.ps1
 ```
 
 游戏、原汉化内容及提取的原游戏图标权利归各自权利人。
+本项目为非官方的 Windows 11 闪退修正补丁，仅供学习、研究与技术交流使用，请勿用于商业用途或违法活动。
